@@ -1,2 +1,1 @@
 # Lightyear
-agentic coding assistant
